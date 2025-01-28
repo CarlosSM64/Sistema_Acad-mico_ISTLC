@@ -1,6 +1,6 @@
 # Sistema_Acad-mico_ISTLC
-Proyecto del Sistema Academico ISTLC
-Grupo:
+Proyecto del Sistema Academico ISTLC:
+
 - Carlos Mantilla
 - Endara Vicent
 - Santana Vera
